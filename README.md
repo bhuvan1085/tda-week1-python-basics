@@ -42,3 +42,5 @@ See `screenshot.png` in this repository for proof of execution.
 - [x] Visual Documentation
 - [x] Technical Details
 - [x] Testing Evidence
+## Visual Documentation
+See `screenshot.png` in this repository for proof of execution.`
